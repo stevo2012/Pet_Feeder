@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pet Feeder</string>\
+    <string name="main_screen">Pet Feeder App</string>
+    <string name="dateTime">date and time</string>
+    <string name="timer_name">timer name</string>
+    <string name="id">id</string>
+    <string name="click_a_record_to_modify_or_delete">Add Times to Create a Schedule</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="update_record">Update Record</string>
+    <string name="enter_new_dateTime">Enter new Date and Time</string>
+    <string name="enter_new_timer_name">Enter New Timer Name</string>
+    <string name="enter_new_id_number">Enter New Timer Number</string>
+    <string name="enter_new_time">Enter New Time</string>
+    <string name="enter_new_date">Enter New Date</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="amount">Amount</string>
+    <string name="enter_new_note">Enter Notes</string>
+</resources>

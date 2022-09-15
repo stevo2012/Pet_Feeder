@@ -1,0 +1,30 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+        <fragment
+            android:id="@+id/fragment_snack_amount"
+            android:name="com.example.petfeeder.SnackAmountFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment_snack_amount">
+
+        </fragment>
+
+        <fragment
+            android:id="@+id/fragment_snack_button"
+            android:name="com.example.petfeeder.SnackButtonFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            tools:layout="@layout/fragment_snack_button">
+
+        </fragment>
+
+</LinearLayout>
