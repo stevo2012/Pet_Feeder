@@ -1,4 +1,4 @@
-# Pet_Feeder
+# Pet Feeder App
 
 This is markdown language. You'll need to learn markdown language so learn it now. Click on edit to see what this looks like when you're writing it.
 
